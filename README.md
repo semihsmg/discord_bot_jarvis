@@ -10,7 +10,7 @@ This project let's you deploy your own Discord bot and you should do couple of t
 ## How to run
 - Download the repository
 - Install the library >>> [discord.py](https://github.com/Rapptz/discord.py)
-- Creata a bot
+- Create a bot
 - Add token of your bot to code
 - Run .py file with Python or from command prompt as
 
